@@ -1,0 +1,43 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkgrey;
+
+}
+
+#navegation{
+    padding: 3em;
+    margin-left: -0.5em;
+    margin-top: -0.5em;
+    width: 79.3em;
+    background-color: aquamarine;
+    
+
+}
+#enlace{
+    word-spacing: 0.1em; 
+    text-align: right;
+    margin-top: -3.5em;
+}
+#enlace button{
+
+    font-size: 1em;
+    border-radius: 8px;
+    border-color: rgb(10, 197, 66);
+    background-color: tomato;
+    
+}
+#enlace a{
+    text-decoration: none;
+    font-size: 1em;
+    color: white;
+}
+
+#logo{
+    margin-top: -0.5em;
+    font-size: 5em;
+}
+
+#text h1{
+    text-align: center;
+    font-size: 3em;
+}

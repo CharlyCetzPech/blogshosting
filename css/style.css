@@ -41,3 +41,14 @@ body{
     text-align: center;
     font-size: 3em;
 }
+#parrafo{
+    width: 90%;
+    text-align: justify;
+    font-size: 1em;
+    margin-left: 3em;
+}
+
+#parrafo p{
+    font-family: arial;
+    
+}
